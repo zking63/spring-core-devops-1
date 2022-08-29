@@ -11,5 +11,6 @@ public class SpringCoreDevOpsApplication {
 
 		//here's a change!
 		//another test!!
+		//build test 3
 	}
 }
